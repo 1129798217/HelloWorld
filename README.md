@@ -1,3 +1,2 @@
 ﻿this is one test project. 
-edit first time use for test.服务器修改一次
-本地修改一次
+edit first time use for test.服务器删除一段内容。
